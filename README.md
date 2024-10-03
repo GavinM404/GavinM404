@@ -1,5 +1,5 @@
 # Hi! Welcome to my GitHub!  
-![Welcome GIF](https://giphy.com/embed/de9AxMzQCiswJ3Fskd)
+![Welcome GIF](https://media.giphy.com/media/de9AxMzQCiswJ3Fskd/giphy.gif)
 
 ### Ways to connect:  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gavin-musgrove-74475711a)  
