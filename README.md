@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi! Welcome to my GitHub!  
+![Welcome GIF](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
 
-<!--
-**GavinM404/GavinM404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ways to connect:  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gavin-musgrove-74475711a)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gavin.musgrove87@gmail.com)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/GavinM404)
 
-Here are some ideas to get you started:
+```javascript
+const gavin = {
+  name: "Gavin Musgrove",
+  location: "Greenville, TX",
+  pronouns: "he" | "him",
+  code: ["Javascript", "HTML", "CSS", "Python", "Lua"],
+  tools: ["React", "Redux", "Node", "SQLAlchemy", "Docker"],
+  architecture: ["microservices", "event-driven", "modular monolith"],
+  methodologies: ["Agile", "Scrum", "Kanban"],
+  techCommunities: ["Reactiflux", "Mudlet"],
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log(
+  `Hi, I'm ${gavin.name} (pronouns: ${gavin.pronouns}). I am proficient in ${gavin.code.join(", ")} ` +
+  `and I use tools like ${gavin.tools.join(", ")}. I follow architectural patterns such as ${gavin.architecture.join(", ")} ` +
+  `and apply development methodologies like ${gavin.methodologies.join(", ")}. ` +
+  `I'm active in tech communities such as ${gavin.techCommunities.join(" and ")}.`
+);
+```
