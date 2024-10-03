@@ -1,5 +1,5 @@
 # Hi! Welcome to my GitHub!  
-![Welcome GIF](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
+![Welcome GIF]([https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif](https://giphy.com/gifs/1jps-castlevania-de9AxMzQCiswJ3Fskd))
 
 ### Ways to connect:  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gavin-musgrove-74475711a)  
