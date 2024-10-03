@@ -1,16 +1,8 @@
 # Hi! Welcome to my GitHub!  
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
     ### Ways to connect:  
-    [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gavin-musgrove-74475711a)
-    [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gavin.musgrove87@gmail.com)
-    [![GitHub Badge](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/GavinM404)
-  </div>
-  <div>
+    [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gavin-musgrove-74475711a)[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gavin.musgrove87@gmail.com)[![GitHub Badge](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/GavinM404)
     <img src="https://media.giphy.com/media/de9AxMzQCiswJ3Fskd/giphy.gif" width="150" alt="Welcome GIF" />
-  </div>
-</div>
 
 ```javascript
 const gavin = {
