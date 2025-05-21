@@ -23,12 +23,5 @@ const gavin = {
   methodologies: ["Agile", "Scrum", "Kanban"],
   techCommunities: ["Reactiflux", "Mudlet"],
 };
-
-console.log(
-  `Hi, I'm ${gavin.name} (pronouns: ${gavin.pronouns}). I am proficient in ${gavin.code.join(", ")} ` +
-  `and I use tools like ${gavin.tools.join(", ")}. I follow architectural patterns such as ${gavin.architecture.join(", ")} ` +
-  `and apply development methodologies like ${gavin.methodologies.join(", ")}. ` +
-  `I'm active in tech communities such as ${gavin.techCommunities.join(" and ")}.`
-);
 ```
 
